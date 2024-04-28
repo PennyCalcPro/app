@@ -1,4 +1,5 @@
 Discover PennyCalc Pro: Where Finance Meets Simplicity
+
 Transform the way you manage your finances with PennyCalc Pro, an app that combines detailed budget management with advanced financial simulation tools. Ideal for finance students, adults managing savings or mortgage projects, and professionals in the financial sector, PennyCalc Pro adapts to all your needs, from academic studies to complex financial decisions in both personal and professional environments.
 
 Key Features:
