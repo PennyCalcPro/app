@@ -1,3 +1,5 @@
+https://play.google.com/store/apps/details?id=org.pennycalcpro.pennycalcpro
+
 Discover PennyCalc Pro: Where Finance Meets Simplicity
 
 Transform the way you manage your finances with PennyCalc Pro, an app that combines detailed budget management with advanced financial simulation tools. Ideal for finance students, adults managing savings or mortgage projects, and professionals in the financial sector, PennyCalc Pro adapts to all your needs, from academic studies to complex financial decisions in both personal and professional environments.
@@ -35,3 +37,5 @@ Confidentialité Garantie : Avec le stockage local des données, vos information
 Interface Conviviale : Conçue pour être intuitive, PennyCalc Pro rend la gestion financière accessible à tous.
 
 Maîtrisez Vos Finances dès Aujourd'hui ! Téléchargez PennyCalc Pro pour un contrôle optimal de vos finances. C'est l'outil idéal pour chaque étape de votre carrière financière, offrant fiabilité et précision pour vos calculs et simulations financières.
+
+https://play.google.com/store/apps/details?id=org.pennycalcpro.pennycalcpro
