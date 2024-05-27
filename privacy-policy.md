@@ -32,7 +32,3 @@ We may update our Privacy Policy from time to time. You are advised to review th
 
 ## Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at stockprecision.contact@gmail.com
-Podemos actualizar nuestra Política de Privacidad de vez en cuando. Se le recomienda revisar esta página periódicamente para cualquier cambio. Los cambios a esta Política de Privacidad son efectivos cuando se publican en esta página. Esta política es efectiva a partir del 2024-04-23.
-
-## Contáctenos
-Si tiene alguna pregunta o sugerencia sobre nuestra Política de Privacidad, no dude en contactarnos en stockprecision.contact@gmail.com
